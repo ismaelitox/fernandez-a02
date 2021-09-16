@@ -14,7 +14,12 @@ public  class Solution06 {
 
         int currentAge = getCurrentAge();
         int retiredAge = getRetiredAge();
+        double retireTime = calculateAgeToRetire();
 
+    }
+
+    private static double calculateAgeToRetire() {
+      double retireTime = (retiredAge - currentAge);
     }
 
     private static int getRetiredAge() {
