@@ -24,5 +24,9 @@ run{
 }
 
 application{
+<<<<<<< HEAD
     mainClass = "Solution06"
+=======
+ mainClass = "Solution08"
+>>>>>>> 9974c59ded58dd8090f553846cece3ba8bf577c5
 }

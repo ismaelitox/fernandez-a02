@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Solution06.java
  Solution06
+=======
+Solution08.java
+ Solution08
+>>>>>>> 9974c59ded58dd8090f553846cece3ba8bf577c5
